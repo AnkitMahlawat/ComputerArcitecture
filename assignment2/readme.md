@@ -10,7 +10,7 @@ Simulate your program on the ARMSim simulator and demonstrate its working.
 
 C Code:
 
-# include <stdint.h>
+\# include <stdint.h>
 
 int main(void)
 
