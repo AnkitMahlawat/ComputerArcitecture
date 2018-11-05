@@ -9,8 +9,8 @@ Simulate your program on the ARMSim simulator and demonstrate its working.
 
 
 C Code:
-
-\# include <stdint.h>
+<code>
+# include <stdint.h>
 
 int main(void)
 
@@ -50,6 +50,7 @@ int main(void)
     return 0;
 
 }
+</code>
 
 
 Prints are added to the above program only to validate the outputs.
