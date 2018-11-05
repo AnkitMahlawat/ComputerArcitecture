@@ -1,15 +1,15 @@
 # Problem Statement
-1. Parse the given an ARM assembly program and use an appropriate representation to store it in an array, with each array element representing an instruction.
+\1. Parse the given an ARM assembly program and use an appropriate representation to store it in an array, with each array element representing an instruction.
 
-2. Resolve the addresses of the labels
+\2. Resolve the addresses of the labels
 
-3. Simulation starts with the Program Counter (PC) pointing to the first instruction.
+\3. Simulation starts with the Program Counter (PC) pointing to the first instruction.
 
-4. Execute the instruction. Display the values of the Register File and Memory contents as a result of executing the instruction.
+\4. Execute the instruction. Display the values of the Register File and Memory contents as a result of executing the instruction.
 
-5. Proceed to the next instruction and continue the execution.
+\5. Proceed to the next instruction and continue the execution.
 
-6. Simulation stops when there is no further instruction to execute.
+\6. Simulation stops when there is no further instruction to execute.
 
 At the end of execution, report any interesting statistics regarding the number and types of instructions executed, etc.
 
