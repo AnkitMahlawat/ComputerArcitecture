@@ -51,9 +51,7 @@ int main(void)
 }
 ```
 
-
 Prints are added to the above program only to validate the outputs.
-
 
 Tips for taking file input:
 
