@@ -10,9 +10,10 @@ Simulate your program on the ARMSim simulator and demonstrate its working.
 
 C Code:
 
-<code>
-#include <stdint.h>
+`#include <stdint.h>
+
 int main(void)
+
 {
     uint16_t start_state = 0xACE1u;  /* Any nonzero start state will work. */
 
@@ -47,8 +48,7 @@ int main(void)
 
     return 0;
 
-}
-</code>
+}`
 
 
 Prints are added to the above program only to validate the outputs.
