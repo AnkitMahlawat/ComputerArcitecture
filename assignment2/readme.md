@@ -9,13 +9,11 @@ Simulate your program on the ARMSim simulator and demonstrate its working.
 
 
 C Code:
+
 <code>
-# include <stdint.h>
-
+#include <stdint.h>
 int main(void)
-
 {
-
     uint16_t start_state = 0xACE1u;  /* Any nonzero start state will work. */
 
     uint16_t lfsr = start_state;
